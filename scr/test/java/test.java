@@ -1,2 +1,1 @@
-test
-2
+add_info
